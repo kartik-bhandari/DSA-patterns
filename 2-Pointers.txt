@@ -3,3 +3,6 @@
 88. Merge Sorted Array - https://leetcode.com/problems/merge-sorted-array/description/
 977. Squares of a Sorted Array - https://leetcode.com/problems/squares-of-a-sorted-array/description/
 15. 3Sum - https://leetcode.com/problems/3sum/description/
+75. Sort Colors - https://leetcode.com/problems/sort-colors/description/
+18. 4Sum - https://leetcode.com/problems/4sum/description/
+844. Backspace String Compare - https://leetcode.com/problems/backspace-string-compare/description/
